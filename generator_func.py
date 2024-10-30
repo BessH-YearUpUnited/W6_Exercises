@@ -10,7 +10,4 @@ def calculator2(n1, n2):
     yield f"You responded {y_n}"
 
 
-for x in calculator2(17,8):
-    print(x)
-
 

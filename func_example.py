@@ -7,7 +7,7 @@ def stopwatch(m, s):
 
 print(f'Result from stopwatch: {stopwatch(1, 12)}')
 print(f'Result from stopwatch: {stopwatch(0, 48)}')
-print(time_result)
+
 
 
 
