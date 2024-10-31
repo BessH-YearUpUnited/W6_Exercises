@@ -1,3 +1,5 @@
+## This is FYI and totally optional ##
+
 import csv
 
 def parse_csv(filepath):
